@@ -1,10 +1,11 @@
-## Hi, I'm Roselyn 💙
+<h1 align="center"> Hi, I'm Roselyn 💙</h1>
 
-I graduated from the [University of Manchester](https://www.manchester.ac.uk/) in 2016 with a BA in Politics, Philosophy and Economics :woman_student: Post graduation I worked as an associate at [PriceWaterhouseCoopers LLP UK](https://www.pwc.co.uk/), specifically within their [Audit and Assurance Services](https://www.pwc.com/gx/en/services/audit-assurance.html) department :woman_office_worker: I recently made the decision to explore a potential career within the technology industry which led me to join [Futureproof](https://getfutureproof.co.uk) as a trainee full stack developer on their coding bootcamp :woman_technologist:
+<p align="center">I graduated from the <a href="https://www.manchester.ac.uk/">University of Manchester</a> in 2016 with a BA in Politics, Philosophy and Economics :woman_student: <br><br> Post graduation I worked as an associate at <a href="https://www.pwc.co.uk/">PriceWaterhouseCoopers LLP UK</a>, specifically within their <a href="https://www.pwc.com/gx/en/services/audit-assurance.html">Audit and Assurance Services business unit</a> :woman_office_worker:<br><br> I recently made the decision to explore a potential career within the technology industry which led me to join <a href="https://getfutureproof.co.uk">Futureproof</a> as a trainee full stack developer on their coding bootcamp :woman_technologist:</p>
 
-Feel free to check out my portfolio [coming soon] or reach out to me on [LinkedIn](https://www.linkedin.com/in/roselynle/) 📫
+<p align="center">Feel free to check out my portfolio [coming soon] or reach out to me on <a href="https://www.linkedin.com/in/roselynle/">LinkedIn</a> 📫</p>
+<br>
 
-<p>
+<p align="center">
 <img alt="HMTL" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=white"
@@ -17,5 +18,9 @@ Feel free to check out my portfolio [coming soon] or reach out to me on [LinkedI
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle)](https://github.com/roselynle/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true"><br><br>
+    <a href="https://github.com/roselynle/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle">
+  </a>
+</p>
