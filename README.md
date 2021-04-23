@@ -2,7 +2,7 @@
 
 <p align="center">I graduated from the <a href="https://www.manchester.ac.uk/">University of Manchester</a> in 2016 with a BA in Politics, Philosophy and Economics :woman_student: <br><br> Post graduation I worked as an associate at <a href="https://www.pwc.co.uk/">PriceWaterhouseCoopers LLP UK</a>, specifically within their <a href="https://www.pwc.com/gx/en/services/audit-assurance.html">Audit and Assurance Services business unit</a> :woman_office_worker:<br><br> I recently made the decision to explore a potential career within the technology industry which led me to join <a href="https://getfutureproof.co.uk">Futureproof</a> as a trainee full stack developer on their coding bootcamp :woman_technologist:</p>
 
-<p align="center">Feel free to check out my portfolio [coming soon] or reach out to me on <a href="https://www.linkedin.com/in/roselynle/">LinkedIn</a> 📫</p>
+<p align="center">Feel free to check out my <a href="https://www.roselyn-le.netlify.app">portfolio</a> or reach out to me on <a href="https://www.linkedin.com/in/roselynle/">LinkedIn</a> 📫</p>
 <br>
 
 <p align="center">
@@ -18,9 +18,5 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true"><br><br>
-    <a href="https://github.com/roselynle/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle">
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle)](https://github.com/roselynle/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true)
