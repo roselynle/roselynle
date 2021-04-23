@@ -2,7 +2,7 @@
 
 <p align="center">I graduated from the <a href="https://www.manchester.ac.uk/">University of Manchester</a> in 2016 with a BA in Politics, Philosophy and Economics :woman_student: <br><br> Post graduation I worked as an associate at <a href="https://www.pwc.co.uk/">PriceWaterhouseCoopers LLP UK</a>, specifically within their <a href="https://www.pwc.com/gx/en/services/audit-assurance.html">Audit and Assurance Services business unit</a> :woman_office_worker:<br><br> I recently made the decision to explore a potential career within the technology industry which led me to join <a href="https://getfutureproof.co.uk">Futureproof</a> as a trainee full stack developer on their coding bootcamp :woman_technologist:</p>
 
-<p align="center">Feel free to check out my <a href="https://www.roselyn-le.netlify.app">portfolio</a> or reach out to me on <a href="https://www.linkedin.com/in/roselynle/">LinkedIn</a> 📫</p>
+<p align="center">Feel free to check out my <a href="https://roselyn-le.netlify.app/">portfolio</a> or reach out to me on <a href="https://www.linkedin.com/in/roselynle/">LinkedIn</a> 📫</p>
 <br>
 
 <p align="center">
