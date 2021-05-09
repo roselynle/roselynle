@@ -18,5 +18,8 @@
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle)](https://github.com/roselynle/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle">
+    <img src="https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true"><br><br>
+    <a href="https://github.com/roselynle/github-readme-stats"></a>
+</p>
