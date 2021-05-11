@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle">
-    <img src="https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true"><br><br>
+    <img height="250px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselynle&layout=compact">
+    <img height="250px" width="405px" src="https://github-readme-stats.vercel.app/api?username=roselynle&show_icons=true"><br><br>
     <a href="https://github.com/roselynle/github-readme-stats"></a>
 </p>
