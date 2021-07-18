@@ -15,7 +15,7 @@ Currently I am working as a Junior Data Engineer at <a href="https://www.zego.co
 </div>
 
 <div align="center">
-<h4>Frameworks, Libraries & Techonologies:</h4>
+<h4>Frameworks, Libraries & Technologies:</h4>
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
 <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
